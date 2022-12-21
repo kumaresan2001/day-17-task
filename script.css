@@ -1,0 +1,17 @@
+p {
+    text-align: center;
+    font-weight: bold;
+    display: block;
+    padding: 50px;
+    margin: auto;
+    font-size: 50px;
+
+}
+
+.container{
+    margin:auto;
+    background-color: aqua;
+    height: 200px;
+    border-radius: 10px;
+    te
+}
